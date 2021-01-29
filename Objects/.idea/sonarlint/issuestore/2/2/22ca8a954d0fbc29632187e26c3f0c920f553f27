@@ -1,0 +1,14 @@
+
+[
+java:S1854"9Remove this useless assignment to local variable "frost".(½Ξÿÿÿÿÿ8ναΆ¥τ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™νÿό8ϊÒ¨¥τ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Εΐόωÿÿÿÿ8ψ€›§τ.
+X	java:S125"<This block of commented-out lines of code should be removed.(®­„8ΰσ¬¤τ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡8€π•¦τ.
+i
+java:S1128"GRemove this unused import 'org.perscholas.examples.classes.Automobile'.(ƒΣωÿÿÿÿ8—Τ§τ.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Frost" 3 times.(αΨΆώÿÿÿÿ8ναΆ¥τ.
+]	java:S125"<This block of commented-out lines of code should be removed.(θΥ“ϋÿÿÿÿ8ΤΏΌ¤τ.
+L
+java:S1481"*Remove this unused "frost" local variable.(½Ξÿÿÿÿÿ8ναΆ¥τ.
