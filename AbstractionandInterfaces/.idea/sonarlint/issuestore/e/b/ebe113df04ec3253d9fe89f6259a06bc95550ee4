@@ -1,7 +1,7 @@
 
 l
 java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8Õ¦íªô.
-p
-java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿žü8Õ¦íªô.
 m
 java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8Õ¦íªô.
+p
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿žü8Õ¦íªô.

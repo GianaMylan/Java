@@ -1,10 +1,10 @@
 
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(µ¹ÄÙ8§Ïý¥ô.
-m
-java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8Öˆã¦ô.
-p
-java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿žü8Öˆã¦ô.
 l
 java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8Öˆã¦ô.
 r
 java:S1104"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ8Öˆã¦ô.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(µ¹ÄÙ8§Ïý¥ô.
+p
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿žü8Öˆã¦ô.
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8Öˆã¦ô.
