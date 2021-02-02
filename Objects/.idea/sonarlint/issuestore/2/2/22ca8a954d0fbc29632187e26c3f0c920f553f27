@@ -1,14 +1,14 @@
 
-X	java:S125"<This block of commented-out lines of code should be removed.(®­„8àó¬¤ô.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÀüšùÿÿÿÿ8ø€›§ô.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(™íÿü8úÒ¨¥ô.
-L
-java:S1481"*Remove this unused "frost" local variable.(š½Îÿÿÿÿÿ8íá¢¥ô.
-i
-java:S1128"GRemove this unused import 'org.perscholas.examples.classes.Automobile'.(ƒŠÓŠùÿÿÿÿ8—Ô§ô.
-]	java:S125"<This block of commented-out lines of code should be removed.(èÕ“ûÿÿÿÿ8Ô¿¼¤ô.
-[
-java:S1854"9Remove this useless assignment to local variable "frost".(š½Îÿÿÿÿÿ8íá¢¥ô.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡8€ğ•¦ô.
 h
 java:S1192"FDefine a constant instead of duplicating this literal "Frost" 3 times.(áØ¢şÿÿÿÿ8íá¢¥ô.
+X	java:S125"<This block of commented-out lines of code should be removed.(®­„8àó¬¤ô.
+[
+java:S1854"9Remove this useless assignment to local variable "frost".(š½Îÿÿÿÿÿ8íá¢¥ô.
+]	java:S125"<This block of commented-out lines of code should be removed.(èÕ“ûÿÿÿÿ8Ô¿¼¤ô.
+L
+java:S1481"*Remove this unused "frost" local variable.(š½Îÿÿÿÿÿ8íá¢¥ô.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘‡8€ğ•¦ô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÀüšùÿÿÿÿ8ø€›§ô.
+i
+java:S1128"GRemove this unused import 'org.perscholas.examples.classes.Automobile'.(ƒŠÓŠùÿÿÿÿ8—Ô§ô.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™íÿü8úÒ¨¥ô.

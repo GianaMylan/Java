@@ -1,11 +1,11 @@
 
-j
-java:S1104"TMake isChunky a static final constant or non-public and provide accessors if needed.(˜ˆ†Ü
-j
-java:S1104"TMake hasDairy a static final constant or non-public and provide accessors if needed.(ÅìÚÞ
 h
 java:S1104"RMake flavor a static final constant or non-public and provide accessors if needed.(÷ßÐÁ
 g
 java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(¢ì­ 
+j
+java:S1104"TMake isChunky a static final constant or non-public and provide accessors if needed.(˜ˆ†Ü
 g
 java:S1104"QMake brand a static final constant or non-public and provide accessors if needed.(ü“ÀÆ
+j
+java:S1104"TMake hasDairy a static final constant or non-public and provide accessors if needed.(ÅìÚÞ

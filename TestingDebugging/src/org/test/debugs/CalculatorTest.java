@@ -3,7 +3,6 @@ package org.test.debugs;
 import org.junit.Test;
 import org.junit.Assert;
 import org.perscholas.example.CalDebug;
-import org.perscholas.example.Calculator;
 
 public class CalculatorTest {
     @Test
