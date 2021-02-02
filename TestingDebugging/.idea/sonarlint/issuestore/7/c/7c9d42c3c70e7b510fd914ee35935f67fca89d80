@@ -1,0 +1,7 @@
+
+Z
+java:S3878"8Remove this array creation and simply pass the elements.(…¹±«ÿÿÿÿÿ8±†™ûõ.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(˜Ú¯Î8±†™ûõ.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÔàûÿÿÿÿ8´€šûõ.
