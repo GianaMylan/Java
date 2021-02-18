@@ -1,9 +1,18 @@
 
-Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ë¥¥úô.
-K
-java:S1481'".Remove this unused "squawking" local variable.(ÔÇîÕ8åÂ¨úô.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(öÛŠ¬ÿÿÿÿÿ8ºÏúô.
+E
+java:S1125:"(Remove the literal "true" boolean value.(Ö¨Ò8ˆ§øúö.
+T
+java:S2589:"7Remove this expression which always evaluates to "true"(Ö¨Ò8ˆ§øúö.
 >
 java:S1643"Use a StringBuilder instead.(÷Ä®êüÿÿÿÿ8ÍÌúô.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(±‡âÈüÿÿÿÿ8ºÏúô.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ïûÿÿÿÿ8İà¹úô.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(öÛŠ¬ÿÿÿÿÿ8ºÏúô.
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(•øËİ8Ò¸¡úö.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ª§üé8Ò¸¡úö.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±‡âÈüÿÿÿÿ8ºÏúô.
+U	java:S106="9Replace this use of System.out or System.err by a logger.(äã–8’¹ûúö.
+]
+java:S3518%";Make sure "num" can't be zero before doing this modulation.(ÉëÈÇüÿÿÿÿ8Ò¸¡úö.
+>
+java:S1643*"Use a StringBuilder instead.(¶ñŒÙıÿÿÿÿ8Ò¸¡úö.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ûåóˆ8ë¥¥úô.
