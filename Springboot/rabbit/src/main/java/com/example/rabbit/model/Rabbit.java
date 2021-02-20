@@ -10,7 +10,7 @@ public class Rabbit {
     @Id
     @Column
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long rabbit_id;
+    private Long rabbitId;
 
     @Column
     private String name;
@@ -31,18 +31,16 @@ public class Rabbit {
     public Rabbit() {
     }
 
-    public Long getRabbit_id() {
-        return rabbit_id;
+    public Long getRabbitId() {
+        return rabbitId;
     }
-
-    public void setRabbit_id(Long rabbit_id) {
-        this.rabbit_id = rabbit_id;
+    public void setRabbitId(Long rabbitId) {
+        this.rabbitId = rabbitId;
     }
 
     public String getName() {
         return name;
     }
-
     public void setName(String name) {
         this.name = name;
     }
@@ -50,7 +48,6 @@ public class Rabbit {
     public String getBreed() {
         return breed;
     }
-
     public void setBreed(String breed) {
         this.breed = breed;
     }
@@ -58,7 +55,6 @@ public class Rabbit {
     public String getColor() {
         return color;
     }
-
     public void setColor(String color) {
         this.color = color;
     }
@@ -66,7 +62,6 @@ public class Rabbit {
     public Boolean getEar_floop() {
         return ear_floop;
     }
-
     public void setEar_floop(Boolean ear_floop) {
         this.ear_floop = ear_floop;
     }
@@ -74,7 +69,6 @@ public class Rabbit {
     public Boolean getLong_hair() {
         return long_hair;
     }
-
     public void setLong_hair(Boolean long_hair) {
         this.long_hair = long_hair;
     }
@@ -82,7 +76,6 @@ public class Rabbit {
     public Boolean getTail_floof() {
         return tail_floof;
     }
-
     public void setTail_floof(Boolean tail_floof) {
         this.tail_floof = tail_floof;
     }
@@ -90,7 +83,6 @@ public class Rabbit {
     public Integer getAge() {
         return age;
     }
-
     public void setAge(Integer age) {
         this.age = age;
     }

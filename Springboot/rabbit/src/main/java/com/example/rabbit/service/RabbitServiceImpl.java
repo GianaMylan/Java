@@ -18,8 +18,8 @@ public class RabbitServiceImpl  implements RabbitService{
     }
 
     @Override
-    public Rabbit findRabbitById(Long id) {
-        return rabbitRepository.findById(id).get();
+    public Rabbit findRabbitById(Long rabbitId) {
+        return rabbitRepository.findById(rabbitId).get();
     }
 
     @Override
@@ -33,8 +33,8 @@ public class RabbitServiceImpl  implements RabbitService{
     }
 
     @Override
-    public HttpStatus deleteRabbit(Long id) {
-        rabbitRepository.deleteById(id);
+    public HttpStatus deleteRabbit(Long rabbitId) {
+        rabbitRepository.deleteById(rabbitId);
         return HttpStatus.OK;
     }
 }

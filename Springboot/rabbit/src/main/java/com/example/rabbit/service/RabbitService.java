@@ -6,9 +6,9 @@ import org.springframework.http.HttpStatus;
 public interface RabbitService {
 
     Iterable<Rabbit> getRabbits();
-    Rabbit findRabbitById(Long id);
+    Rabbit findRabbitById(Long rabbitId);
     Rabbit createRabbit(Rabbit rabbit);
     Rabbit updateRabbit(Rabbit rabbit);
-    HttpStatus deleteRabbit(Long id);
+    HttpStatus deleteRabbit(Long rabbitId);
 
 }
