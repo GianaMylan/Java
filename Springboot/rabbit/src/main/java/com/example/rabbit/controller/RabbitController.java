@@ -19,7 +19,7 @@ public class RabbitController {
         return rabbitService.getRabbits();
     }
 
-    @GetMapping("/{id}")
+    @GetMapping("/{rabbitId}")
     public Rabbit findRabbitById(@PathVariable Long rabbitId) {
         return rabbitService.findRabbitById(rabbitId);
     }
@@ -34,7 +34,7 @@ public class RabbitController {
         return rabbitService.updateRabbit(rabbit);
     }
 
-    @DeleteMapping ("/{id}")
+    @DeleteMapping ("/{rabbitId}")
     public HttpStatus deleteRabbit(@PathVariable Long rabbitId) {
          return rabbitService.deleteRabbit(rabbitId);
     }
